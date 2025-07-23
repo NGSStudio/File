@@ -17,11 +17,21 @@
   {
     "name": "ห้าคนยืนอยู่ตรงมุมห้อง",
     "url": "https://github.com/NGSStudio/File/raw/refs/heads/main/song4.mp3",
-   "imageUrl": "https://github.com/NGSStudio/File/raw/refs/heads/main/5d5f7f1d-06aa-447d-850a-973aaad8deac.jpeg"
+   "imageUrl": "https://github.com/NGSStudio/File/raw/refs/heads/main/ChatGPT Image 24 ก.ค. 2568 00_05_41.png"
   },
   {
     "name": "ห้าคนรวมตัว",
-    "url": "https://github.com/NGSStudio/File/raw/refs/heads/main/song4.mp3",
+    "url": "https://github.com/NGSStudio/File/raw/refs/heads/main/song5.mp3",
+    "imageUrl": "https://github.com/NGSStudio/File/raw/refs/heads/main/5d5f7f1d-06aa-447d-850a-973aaad8deac.jpeg"
+  },
+  {
+    "name": "ห้าคนในกลุ่มเรา",
+    "url": "https://github.com/NGSStudio/File/raw/refs/heads/main/song6.mp3",
+    "imageUrl": "https://github.com/NGSStudio/File/raw/refs/heads/main/5d5f7f1d-06aa-447d-850a-973aaad8deac.jpeg"
+  },
+  {
+    "name": "ห้าคนรวมตัวมั่วแต่แซว",
+    "url": "https://github.com/NGSStudio/File/raw/refs/heads/main/song7.mp3",
     "imageUrl": "https://github.com/NGSStudio/File/raw/refs/heads/main/5d5f7f1d-06aa-447d-850a-973aaad8deac.jpeg"
   }
 ]
